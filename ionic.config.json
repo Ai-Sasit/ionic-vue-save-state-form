@@ -1,0 +1,7 @@
+{
+  "name": "save-state-mask-vue-form",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
